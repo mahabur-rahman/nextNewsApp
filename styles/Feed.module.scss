@@ -1,0 +1,16 @@
+.active {
+    cursor: pointer;
+    color: #000;
+}
+
+.disabled {
+    cursor: not-allowed;
+    color: rgb(179, 179, 179);
+}
+
+.mainDiv {
+    padding: 3rem 0;
+    display: flex;
+    align-items: space-between;
+    justify-content: center;
+}
